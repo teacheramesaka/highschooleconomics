@@ -2,6 +2,8 @@
 
 * [雨坂先生の復習用資料　表紙](https://teacheramesaka.github.io/studyfiles/)
 * [高校公民経済分野　表紙](README.md)
+* [動画一覧](LIST.md)
+* [YouTube再生リスト](https://www.youtube.com/playlist?list=PLOdKiaJAYzETqEgfO---EFK30N1aXbyBP)
 
 -----
 * [経済分野第一章　経済の仕組み](01_00.md)
