@@ -35,7 +35,15 @@
 |資本主義の理論2／アダム・スミス以外の古典経済学|[YouTube](https://youtu.be/cyRlq9kSFh0)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39649254)|
 |資本主義の理論3／古典経済学の批判|[YouTube](https://youtu.be/a18HttU8fMU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39649397)|
 |資本主義の理論4／ジョン・メイナード・ケインズ|[YouTube](https://youtu.be/bs1qkcFpNJs)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39658547)|
-|資本主義の理論5／シュンペーターと新自由主義|[YouTube](https://youtu.be/5WSn_OldZKA)|[ニコニコ動画]()|
+|資本主義の理論5／シュンペーターと新自由主義|[YouTube](https://youtu.be/5WSn_OldZKA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39662437)|
 
-※資本主義は動画量が多いので分割しました
+※資本主義は動画量が多いので分割しました  
 [※資本主義の復習用資料はこちら](01_01.md)
+
+### 資本主義　問題演習
+
+||||
+|:----:|:----:|:----:|
+|比較優位説問題演習１／総論と問１|[YouTube](https://youtu.be/cQPD9Xp5fEA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39666587)|
+|比較優位説問題演習２／問２、問３|[YouTube](https://youtu.be/UCir2G3IC8o)|[ニコニコ動画]()|
+|比較優位説問題演習３／問４、問５|[YouTube](https://youtu.be/4bQ3HJxVKOM)|[ニコニコ動画]()|
