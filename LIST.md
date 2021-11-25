@@ -6,7 +6,7 @@
 |:----:|:----:|:----:|
 |経済分野第一章前説|[YouTube](https://youtu.be/G2HyQlsrAU8)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39597225)|
 
-[※復習用資料はこちら](01_02.md)
+[※復習用資料はこちら](01_00.md)
 
 ### 資本主義
 #### 資本主義とは
@@ -47,3 +47,5 @@
 |比較優位説問題演習１／総論と問１|[YouTube](https://youtu.be/cQPD9Xp5fEA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39666587)|
 |比較優位説問題演習２／問２、問３|[YouTube](https://youtu.be/UCir2G3IC8o)|[ニコニコ動画]()|
 |比較優位説問題演習３／問４、問５|[YouTube](https://youtu.be/4bQ3HJxVKOM)|[ニコニコ動画]()|
+
+[※復習用資料はこちら](01_01_work.md)
