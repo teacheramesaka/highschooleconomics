@@ -129,8 +129,43 @@
 
 ||||
 |:----:|:----:|:----:|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
+|通貨とは何か1／通貨の発展1|[YouTube](https://youtu.be/I94J-9I_Sas)|[ニコニコ動画]()|
+|通貨とは何か2／通貨の発展2|[YouTube](https://youtu.be/U08pNRu19lk)|[ニコニコ動画]()|
+|通貨とは何か3／雑談―「国債は借金ではない」ってどういう意味？【|[YouTube](https://youtu.be/4UcV6bJSmb0)|[ニコニコ動画]()|
+|通貨とは何か4／現金通貨と預金通貨|[YouTube](https://youtu.be/oAQ3lqGrvHo)|[ニコニコ動画]()|
+|通貨とは何か5／マネーストックの分類|[YouTube](https://youtu.be/irCp8haPOdk)|[ニコニコ動画]()|
+|国債1／種類と原則|[YouTube](https://youtu.be/Bh31VzMbXEc)|[ニコニコ動画]()|
+|国債2／財政健全化と国債|[YouTube](https://youtu.be/Bsb9atP_mW8)|[ニコニコ動画]()|
+
+[※復習用資料はこちら](01_08.md)
+
+
+### フローとストック
+
+||||
+|:----:|:----:|:----:|
+|フローとストック概説|[YouTube](https://youtu.be/h3tfNtEra9I)|[ニコニコ動画]()|
+|（広義の）国民所得1／GDPとGNPの概説と変換式|[YouTube](https://youtu.be/WTWX-CdWSrU)|[ニコニコ動画]()|
+|（広義の）国民所得2／NNPとNIの概説|[YouTube](https://youtu.be/3gCVe-jyQaQ)|[ニコニコ動画]()|
+|（広義の）国民所得3／NI三変化|[YouTube](https://youtu.be/ChDS7M5YLTU)|[ニコニコ動画]()|
+|謎指標と国富|[YouTube](https://youtu.be/PPQ2YalZdxw)|[ニコニコ動画]()|
+
+[※復習用資料はこちら](01_09.md)
+
+### 経済成長率
+
+||||
+|:----:|:----:|:----:|
+|経済成長率1|[YouTube](https://youtu.be/TJh9p0_AWls)|[ニコニコ動画]()|
+|経済成長率2|[YouTube](https://youtu.be/zhBKcju-7RM)|[ニコニコ動画]()|
+|経済成長率3／まとめ雑談|[YouTube](https://youtu.be/drqb2sriEJQ)|[ニコニコ動画]()|
+
+[※復習用資料はこちら](01_10.md)
+
+### 編集中
+
+||||
+|:----:|:----:|:----:|
 ||[YouTube]()|[ニコニコ動画]()|
 ||[YouTube]()|[ニコニコ動画]()|
 ||[YouTube]()|[ニコニコ動画]()|
@@ -138,4 +173,4 @@
 ||[YouTube]()|[ニコニコ動画]()|
 ||[YouTube]()|[ニコニコ動画]()|
 
-[※復習用資料はこちら](01_08.md)
+[※復習用資料はこちら](01_11.md)
