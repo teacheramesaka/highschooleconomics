@@ -162,6 +162,28 @@
 
 [※復習用資料はこちら](01_10.md)
 
+### 景気変動とインフレ、デフレ
+
+||||
+|:----:|:----:|:----:|
+|景気変動をインフレ、デフレから見る1|[YouTube](https://www.youtube.com/watch?v=DdJ6ruLlGgw)|[ニコニコ動画]()|
+|景気変動をインフレ、デフレから見る2|[YouTube](https://www.youtube.com/watch?v=967ivAIW1HI)|[ニコニコ動画]()|
+|景気変動をインフレ、デフレから見る3|[YouTube](https://www.youtube.com/watch?v=5gOFkQatNig)|[ニコニコ動画]()|
+|景気変動の周期|[YouTube](https://www.youtube.com/watch?v=cTsHABPPMRk)|[ニコニコ動画]()|
+|インフレ、デフレ色々|[YouTube](https://www.youtube.com/watch?v=5w0pNJhUW6M)|[ニコニコ動画]()|
+
+[※復習用資料はこちら](01_12.md)
+
+### 財政、予算、会計
+
+||||
+|:----:|:----:|:----:|
+|財政政策1／資源配分調整、所得再分配|[YouTube](https://youtu.be/hj19Z84-jDc)|[ニコニコ動画]()|
+|財政政策2／経済安定化機能1|[YouTube](https://youtu.be/QQmEMaISAvo)|[ニコニコ動画]()|
+|財政政策3／経済安定化機能2|[YouTube](https://youtu.be/AA7342Q1TLU)|[ニコニコ動画]()|
+|予算と会計|[YouTube](https://youtu.be/18FfQZgSzsA)|[ニコニコ動画]()|
+
+[※復習用資料はこちら](01_13.md)
 ### 編集中
 
 ||||
@@ -173,4 +195,4 @@
 ||[YouTube]()|[ニコニコ動画]()|
 ||[YouTube]()|[ニコニコ動画]()|
 
-[※復習用資料はこちら](01_11.md)
+[※復習用資料はこちら](01_13.md)
