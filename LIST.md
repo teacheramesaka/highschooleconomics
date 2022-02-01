@@ -105,9 +105,9 @@
 |独占市場4／独占市場への対処1|[YouTube](https://youtu.be/_axIPeVQm1w)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39807894)|
 |独占市場5／独占市場への対処2|[YouTube](https://youtu.be/_3sbMbOC-es)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39815417)|
 |独占市場6／独占市場への対処3|[YouTube](https://youtu.be/pz1F9AKW2tU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39817628)|
-|その他の市場の失敗1／公共財の不在|[YouTube](https://youtu.be/wELj0VOExvI)|[ニコニコ動画]()|
-|その他の市場の失敗2／貧富の格差拡大|[YouTube](https://youtu.be/GvTvLbugTfA)|[ニコニコ動画]()|
-|その他の市場の失敗3／外部経済の存在|[YouTube](https://youtu.be/h1paEmDwRZg)|[ニコニコ動画]()|
+|その他の市場の失敗1／公共財の不在|[YouTube](https://youtu.be/wELj0VOExvI)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39817628)|
+|その他の市場の失敗2／貧富の格差拡大|[YouTube](https://youtu.be/GvTvLbugTfA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39827980)|
+|その他の市場の失敗3／外部経済の存在|[YouTube](https://youtu.be/h1paEmDwRZg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39830811)|
 
 [※復習用資料はこちら](01_06.md)
 
@@ -116,12 +116,12 @@
 
 ||||
 |:----:|:----:|:----:|
-|企業とは1／企業の分類1|[YouTube](https://youtu.be/_ErgmHfw1Sw)|[ニコニコ動画]()|
-|企業とは2／企業の分類2|[YouTube](https://youtu.be/Q7UC9mxkMZw)|[ニコニコ動画]()|
-|企業とは3／企業の分類3|[YouTube](https://youtu.be/QPfg961zGXQ)|[ニコニコ動画]()|
-|企業とは4／企業の資金調達|[YouTube](https://youtu.be/r3r6kFRfhuA)|[ニコニコ動画]()|
-|企業とは5／株式会社の資金調達|[YouTube](https://youtu.be/9OOIPI8oXS0)|[ニコニコ動画]()|
-|企業とは6／営利企業の非営利活動|[YouTube](https://youtu.be/Z-4WgzDS9pg)|[ニコニコ動画]()|
+|企業とは1／企業の分類1|[YouTube](https://youtu.be/_ErgmHfw1Sw)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39834947)|
+|企業とは2／企業の分類2|[YouTube](https://youtu.be/Q7UC9mxkMZw)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39864308)|
+|企業とは3／企業の分類3|[YouTube](https://youtu.be/QPfg961zGXQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39879815)|
+|企業とは4／企業の資金調達|[YouTube](https://youtu.be/r3r6kFRfhuA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39879939)|
+|企業とは5／株式会社の資金調達|[YouTube](https://youtu.be/9OOIPI8oXS0)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39921559)|
+|企業とは6／営利企業の非営利活動|[YouTube](https://youtu.be/Z-4WgzDS9pg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39921638)|
 
 [※復習用資料はこちら](01_07.md)
 
@@ -129,13 +129,13 @@
 
 ||||
 |:----:|:----:|:----:|
-|通貨とは何か1／通貨の発展1|[YouTube](https://youtu.be/I94J-9I_Sas)|[ニコニコ動画]()|
-|通貨とは何か2／通貨の発展2|[YouTube](https://youtu.be/U08pNRu19lk)|[ニコニコ動画]()|
-|通貨とは何か3／雑談―「国債は借金ではない」ってどういう意味？【|[YouTube](https://youtu.be/4UcV6bJSmb0)|[ニコニコ動画]()|
-|通貨とは何か4／現金通貨と預金通貨|[YouTube](https://youtu.be/oAQ3lqGrvHo)|[ニコニコ動画]()|
-|通貨とは何か5／マネーストックの分類|[YouTube](https://youtu.be/irCp8haPOdk)|[ニコニコ動画]()|
-|国債1／種類と原則|[YouTube](https://youtu.be/Bh31VzMbXEc)|[ニコニコ動画]()|
-|国債2／財政健全化と国債|[YouTube](https://youtu.be/Bsb9atP_mW8)|[ニコニコ動画]()|
+|通貨とは何か1／通貨の発展1|[YouTube](https://youtu.be/I94J-9I_Sas)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39921698)|
+|通貨とは何か2／通貨の発展2|[YouTube](https://youtu.be/U08pNRu19lk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39921844)|
+|通貨とは何か3／雑談―「国債は借金ではない」ってどういう意味？|[YouTube](https://youtu.be/4UcV6bJSmb0)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39921909)|
+|通貨とは何か4／現金通貨と預金通貨|[YouTube](https://youtu.be/oAQ3lqGrvHo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39923017)|
+|通貨とは何か5／マネーストックの分類|[YouTube](https://youtu.be/irCp8haPOdk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39924899)|
+|国債1／種類と原則|[YouTube](https://youtu.be/Bh31VzMbXEc)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39925051)|
+|国債2／財政健全化と国債|[YouTube](https://youtu.be/Bsb9atP_mW8)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39925550)|
 
 [※復習用資料はこちら](01_08.md)
 
@@ -144,11 +144,11 @@
 
 ||||
 |:----:|:----:|:----:|
-|フローとストック概説|[YouTube](https://youtu.be/h3tfNtEra9I)|[ニコニコ動画]()|
-|（広義の）国民所得1／GDPとGNPの概説と変換式|[YouTube](https://youtu.be/WTWX-CdWSrU)|[ニコニコ動画]()|
-|（広義の）国民所得2／NNPとNIの概説|[YouTube](https://youtu.be/3gCVe-jyQaQ)|[ニコニコ動画]()|
-|（広義の）国民所得3／NI三変化|[YouTube](https://youtu.be/ChDS7M5YLTU)|[ニコニコ動画]()|
-|謎指標と国富|[YouTube](https://youtu.be/PPQ2YalZdxw)|[ニコニコ動画]()|
+|フローとストック概説|[YouTube](https://youtu.be/h3tfNtEra9I)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39925644)|
+|（広義の）国民所得1／GDPとGNPの概説と変換式|[YouTube](https://youtu.be/WTWX-CdWSrU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39925846)|
+|（広義の）国民所得2／NNPとNIの概説|[YouTube](https://youtu.be/3gCVe-jyQaQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39925926)|
+|（広義の）国民所得3／NI三変化|[YouTube](https://youtu.be/ChDS7M5YLTU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39926012)|
+|謎指標と国富|[YouTube](https://youtu.be/PPQ2YalZdxw)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39929624)|
 
 [※復習用資料はこちら](01_09.md)
 
@@ -156,9 +156,9 @@
 
 ||||
 |:----:|:----:|:----:|
-|経済成長率1|[YouTube](https://youtu.be/TJh9p0_AWls)|[ニコニコ動画]()|
-|経済成長率2|[YouTube](https://youtu.be/zhBKcju-7RM)|[ニコニコ動画]()|
-|経済成長率3／まとめ雑談|[YouTube](https://youtu.be/drqb2sriEJQ)|[ニコニコ動画]()|
+|経済成長率1|[YouTube](https://youtu.be/TJh9p0_AWls)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39939796)|
+|経済成長率2|[YouTube](https://youtu.be/zhBKcju-7RM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39940043)|
+|経済成長率3／まとめ雑談|[YouTube](https://youtu.be/drqb2sriEJQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39943867)|
 
 [※復習用資料はこちら](01_10.md)
 
@@ -166,24 +166,62 @@
 
 ||||
 |:----:|:----:|:----:|
-|景気変動をインフレ、デフレから見る1|[YouTube](https://www.youtube.com/watch?v=DdJ6ruLlGgw)|[ニコニコ動画]()|
-|景気変動をインフレ、デフレから見る2|[YouTube](https://www.youtube.com/watch?v=967ivAIW1HI)|[ニコニコ動画]()|
-|景気変動をインフレ、デフレから見る3|[YouTube](https://www.youtube.com/watch?v=5gOFkQatNig)|[ニコニコ動画]()|
-|景気変動の周期|[YouTube](https://www.youtube.com/watch?v=cTsHABPPMRk)|[ニコニコ動画]()|
-|インフレ、デフレ色々|[YouTube](https://www.youtube.com/watch?v=5w0pNJhUW6M)|[ニコニコ動画]()|
+|景気変動をインフレ、デフレから見る1|[YouTube](https://www.youtube.com/watch?v=DdJ6ruLlGgw)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39953228)|
+|景気変動をインフレ、デフレから見る2|[YouTube](https://www.youtube.com/watch?v=967ivAIW1HI)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39953413)|
+|景気変動をインフレ、デフレから見る3|[YouTube](https://www.youtube.com/watch?v=5gOFkQatNig)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39959457)|
+|景気変動の周期|[YouTube](https://www.youtube.com/watch?v=cTsHABPPMRk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39959682)|
+|インフレ、デフレ色々|[YouTube](https://www.youtube.com/watch?v=5w0pNJhUW6M)|[ニコニコ動画][(](https://www.nicovideo.jp/watch/sm39959792))|
 
-[※復習用資料はこちら](01_12.md)
+[※復習用資料はこちら](01_11.md)
 
 ### 財政、予算、会計
 
 ||||
 |:----:|:----:|:----:|
-|財政政策1／資源配分調整、所得再分配|[YouTube](https://youtu.be/hj19Z84-jDc)|[ニコニコ動画]()|
-|財政政策2／経済安定化機能1|[YouTube](https://youtu.be/QQmEMaISAvo)|[ニコニコ動画]()|
-|財政政策3／経済安定化機能2|[YouTube](https://youtu.be/AA7342Q1TLU)|[ニコニコ動画]()|
-|予算と会計|[YouTube](https://youtu.be/18FfQZgSzsA)|[ニコニコ動画]()|
+|財政政策1／資源配分調整、所得再分配|[YouTube](https://youtu.be/hj19Z84-jDc)|[ニコニコ動画]((https://www.nicovideo.jp/watch/sm39972117)|
+|財政政策2／経済安定化機能1|[YouTube](https://youtu.be/QQmEMaISAvo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39972251)|
+|財政政策3／経済安定化機能2|[YouTube](https://youtu.be/AA7342Q1TLU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39972298)|
+|予算と会計|[YouTube](https://youtu.be/18FfQZgSzsA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39972631)|
+
+[※復習用資料はこちら](01_12.md)
+
+### 金融政策と銀行
+
+||||
+|:----:|:----:|:----:|
+|日本銀行1／概要|[YouTube](https://youtu.be/LyU_y0ftcmU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39972869)|
+|日本銀行2／日銀の金融政策|[YouTube](https://youtu.be/996CkOP2Rno)|[ニコニコ動画]()|
+|日本銀行3／金融政策の呼び方|[YouTube](https://youtu.be/6_X_ZcgrPxQ)|[ニコニコ動画]()|
+|市中銀行と信用創造|[YouTube](https://youtu.be/1dUkO2ACirI)|[ニコニコ動画]()|
 
 [※復習用資料はこちら](01_13.md)
+### 税
+
+||||
+|:----:|:----:|:----:|
+|税1／直接税間接税、累進税比例税|[YouTube](https://youtu.be/KXbzDr5Ncn4)|[ニコニコ動画]()|
+|税2／雑談-税金と経費|[YouTube](https://youtu.be/e8QrFgNGFjU)|[ニコニコ動画]()|
+|税3／消費税|[YouTube](https://youtu.be/5IrXS3mQVys)|[ニコニコ動画]()|
+
+[※復習用資料はこちら](01_14.md)
+
+### 国際経済
+
+||||
+|:----:|:----:|:----:|
+|高校公民経済分野1-15-1／為替の変動1／概要|[YouTube](https://youtu.be/vL_RcPhpbCM)|[ニコニコ動画]()|
+|高校公民経済分野1-15-2／為替の変動2／要因1|[YouTube](https://youtu.be/KWwpHfz6LpE)|[ニコニコ動画]()|
+|高校公民経済分野1-15-3／為替の変動3／要因2|[YouTube](https://youtu.be/z2g5K2k8qQE)|[ニコニコ動画]()|
+|高校公民経済分野1-15-4／為替の変動4／結果1|[YouTube](https://youtu.be/H5zwiygqe84)|[ニコニコ動画]()|
+|高校公民経済分野1-15-5／為替の変動5／結果2|[YouTube](https://youtu.be/5rf-jpE1pAg)|[ニコニコ動画]()|
+|高校公民経済分野1-15-6／貿易取引の仕組|[YouTube](https://youtu.be/hcrdoD3MOKQ)|[ニコニコ動画]()|
+|高校公民経済分野1-15-7／国際分業|[YouTube](https://youtu.be/GHUWukwkrOk)|[ニコニコ動画]()|
+|高校公民経済分野1-15-8／国際収支1|[YouTube](https://youtu.be/Y_bNZXn3lQg)|[ニコニコ動画]()|
+|高校公民経済分野1-15-9／国際収支2|[YouTube](https://youtu.be/arS3KolWWPQ)|[ニコニコ動画]()|
+
+[※復習用資料はこちら](01_15.md)
+
+
 ### 編集中
 
 ||||
@@ -195,4 +233,4 @@
 ||[YouTube]()|[ニコニコ動画]()|
 ||[YouTube]()|[ニコニコ動画]()|
 
-[※復習用資料はこちら](01_13.md)
+[※復習用資料はこちら](01_15.md)
