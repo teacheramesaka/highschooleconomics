@@ -190,9 +190,9 @@
 ||||
 |:----:|:----:|:----:|
 |日本銀行1／概要|[YouTube](https://youtu.be/LyU_y0ftcmU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39972869)|
-|日本銀行2／日銀の金融政策|[YouTube](https://youtu.be/996CkOP2Rno)|[ニコニコ動画]()|
-|日本銀行3／金融政策の呼び方|[YouTube](https://youtu.be/6_X_ZcgrPxQ)|[ニコニコ動画]()|
-|市中銀行と信用創造|[YouTube](https://youtu.be/1dUkO2ACirI)|[ニコニコ動画]()|
+|日本銀行2／日銀の金融政策|[YouTube](https://youtu.be/996CkOP2Rno)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39976664)|
+|日本銀行3／金融政策の呼び方|[YouTube](https://youtu.be/6_X_ZcgrPxQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39977185)|
+|市中銀行と信用創造|[YouTube](https://youtu.be/1dUkO2ACirI)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39977370)|
 
 [※復習用資料はこちら](01_13.md)
 ### 税
