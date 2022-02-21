@@ -199,9 +199,9 @@
 
 ||||
 |:----:|:----:|:----:|
-|税1／直接税間接税、累進税比例税|[YouTube](https://youtu.be/KXbzDr5Ncn4)|[ニコニコ動画]()|
-|税2／雑談-税金と経費|[YouTube](https://youtu.be/e8QrFgNGFjU)|[ニコニコ動画]()|
-|税3／消費税|[YouTube](https://youtu.be/5IrXS3mQVys)|[ニコニコ動画]()|
+|税1／直接税間接税、累進税比例税|[YouTube](https://youtu.be/KXbzDr5Ncn4)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981048)|
+|税2／雑談-税金と経費|[YouTube](https://youtu.be/e8QrFgNGFjU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981132)|
+|税3／消費税|[YouTube](https://youtu.be/5IrXS3mQVys)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981185)|
 
 [※復習用資料はこちら](01_14.md)
 
@@ -209,20 +209,51 @@
 
 ||||
 |:----:|:----:|:----:|
-|高校公民経済分野1-15-1／為替の変動1／概要|[YouTube](https://youtu.be/vL_RcPhpbCM)|[ニコニコ動画]()|
-|高校公民経済分野1-15-2／為替の変動2／要因1|[YouTube](https://youtu.be/KWwpHfz6LpE)|[ニコニコ動画]()|
-|高校公民経済分野1-15-3／為替の変動3／要因2|[YouTube](https://youtu.be/z2g5K2k8qQE)|[ニコニコ動画]()|
-|高校公民経済分野1-15-4／為替の変動4／結果1|[YouTube](https://youtu.be/H5zwiygqe84)|[ニコニコ動画]()|
-|高校公民経済分野1-15-5／為替の変動5／結果2|[YouTube](https://youtu.be/5rf-jpE1pAg)|[ニコニコ動画]()|
-|高校公民経済分野1-15-6／貿易取引の仕組|[YouTube](https://youtu.be/hcrdoD3MOKQ)|[ニコニコ動画]()|
-|高校公民経済分野1-15-7／国際分業|[YouTube](https://youtu.be/GHUWukwkrOk)|[ニコニコ動画]()|
-|高校公民経済分野1-15-8／国際収支1|[YouTube](https://youtu.be/Y_bNZXn3lQg)|[ニコニコ動画]()|
-|高校公民経済分野1-15-9／国際収支2|[YouTube](https://youtu.be/arS3KolWWPQ)|[ニコニコ動画]()|
+|高校公民経済分野1-15-1／為替の変動1／概要|[YouTube](https://youtu.be/vL_RcPhpbCM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981264)|
+|高校公民経済分野1-15-2／為替の変動2／要因1|[YouTube](https://youtu.be/KWwpHfz6LpE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981308)|
+|高校公民経済分野1-15-3／為替の変動3／要因2|[YouTube](https://youtu.be/z2g5K2k8qQE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40006296)|
+|高校公民経済分野1-15-4／為替の変動4／結果1|[YouTube](https://youtu.be/H5zwiygqe84)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40006484)|
+|高校公民経済分野1-15-5／為替の変動5／結果2|[YouTube](https://youtu.be/5rf-jpE1pAg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40006556)|
+|高校公民経済分野1-15-6／貿易取引の仕組|[YouTube](https://youtu.be/hcrdoD3MOKQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010190)|
+|高校公民経済分野1-15-7／国際分業|[YouTube](https://youtu.be/GHUWukwkrOk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010466)|
+|高校公民経済分野1-15-8／国際収支1|[YouTube](https://youtu.be/Y_bNZXn3lQg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010554)|
+|高校公民経済分野1-15-9／国際収支2|[YouTube](https://youtu.be/arS3KolWWPQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010680)|
 
 [※復習用資料はこちら](01_15.md)
 
 
-### 編集中
+## 経済分野第二章　社会福祉
+### 労働問題
+||||
+|:----:|:----:|:----:|
+|経済分野第二章前説＋労働問題前説|[YouTube](https://youtu.be/grbDGdJSVCM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010818)|
+#### 労働問題の歴史
+
+||||
+|:----:|:----:|:----:|
+|世界の労働問題の歴史1|[YouTube](https://youtu.be/0txRujiqUoM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40014305)|
+|世界の労働問題の歴史2|[YouTube](https://youtu.be/c-5NkziNiBk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40028818)|
+|日本の労働問題　概説|[YouTube](https://youtu.be/sn1rhIMt0ks)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40028865)|
+
+#### 労働三法（労働基準法）
+
+||||
+|:----:|:----:|:----:|
+|概説、原則1|[YouTube](https://youtu.be/3OuI5coc-u4)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40029002)|
+|原則2|[YouTube](https://youtu.be/bJgbRZ60BTw)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40074432)|
+|法律、労働協約、就業規則、労働契約|[YouTube](https://youtu.be/ezimALwhcD8)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40074442)|
+|労働時間|[YouTube](https://youtu.be/yGIGIkzcnwE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40074459)|
+|休日、賃金の支払い、労働基準監督署|[YouTube](https://youtu.be/DSvXWp0lA3E)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40074502)|
+|その他労働基準法あれこれ|[YouTube](https://youtu.be/PxSwCN-OBHY)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40074593)|
+#### 労働三法（労働組合法、労働関係調整法）
+
+||||
+|:----:|:----:|:----:|
+|概要|[YouTube](https://youtu.be/UKat8QsvOvU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40074619)|
+|労働組合の形態（ショップ制）|[YouTube](https://youtu.be/-hmkbVKDm8I)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40074662)|
+|労働委員会（概説）|[YouTube](https://youtu.be/ZNRTIwexS_E)|[ニコニコ動画]()|
+|労働争議と労働委員会|[YouTube](https://youtu.be/huh5-QFgnNQ)|[ニコニコ動画]()|
+#### 今日的な労働問題
 
 ||||
 |:----:|:----:|:----:|
@@ -233,4 +264,5 @@
 ||[YouTube]()|[ニコニコ動画]()|
 ||[YouTube]()|[ニコニコ動画]()|
 
+※資本主義は動画量が多いので分割しました  
 [※復習用資料はこちら](01_15.md)
