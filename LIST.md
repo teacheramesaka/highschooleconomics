@@ -170,7 +170,7 @@
 |景気変動をインフレ、デフレから見る2|[YouTube](https://www.youtube.com/watch?v=967ivAIW1HI)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39953413)|
 |景気変動をインフレ、デフレから見る3|[YouTube](https://www.youtube.com/watch?v=5gOFkQatNig)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39959457)|
 |景気変動の周期|[YouTube](https://www.youtube.com/watch?v=cTsHABPPMRk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39959682)|
-|インフレ、デフレ色々|[YouTube](https://www.youtube.com/watch?v=5w0pNJhUW6M)|[ニコニコ動画][(](https://www.nicovideo.jp/watch/sm39959792))|
+|インフレ、デフレ色々|[YouTube](https://www.youtube.com/watch?v=5w0pNJhUW6M)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39959792)|
 
 [※復習用資料はこちら](01_11.md)
 
@@ -178,7 +178,7 @@
 
 ||||
 |:----:|:----:|:----:|
-|財政政策1／資源配分調整、所得再分配|[YouTube](https://youtu.be/hj19Z84-jDc)|[ニコニコ動画]((https://www.nicovideo.jp/watch/sm39972117)|
+|財政政策1／資源配分調整、所得再分配|[YouTube](https://youtu.be/hj19Z84-jDc)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39972117)|
 |財政政策2／経済安定化機能1|[YouTube](https://youtu.be/QQmEMaISAvo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39972251)|
 |財政政策3／経済安定化機能2|[YouTube](https://youtu.be/AA7342Q1TLU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39972298)|
 |予算と会計|[YouTube](https://youtu.be/18FfQZgSzsA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39972631)|
@@ -251,9 +251,43 @@
 |:----:|:----:|:----:|
 |概要|[YouTube](https://youtu.be/UKat8QsvOvU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40074619)|
 |労働組合の形態（ショップ制）|[YouTube](https://youtu.be/-hmkbVKDm8I)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40074662)|
-|労働委員会（概説）|[YouTube](https://youtu.be/ZNRTIwexS_E)|[ニコニコ動画]()|
-|労働争議と労働委員会|[YouTube](https://youtu.be/huh5-QFgnNQ)|[ニコニコ動画]()|
+|労働委員会（概説）|[YouTube](https://youtu.be/ZNRTIwexS_E)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40097643)|
+|労働争議と労働委員会|[YouTube](https://youtu.be/huh5-QFgnNQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40104012)|
 #### 今日的な労働問題
+
+||||
+|:----:|:----:|:----:|
+|崩壊した、日本の伝統的な労働環境1|[YouTube](https://youtu.be/3itqngpqiL8)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40122223)|
+|崩壊した、日本の伝統的な労働環境2|[YouTube](https://youtu.be/vStFtYrsi5I)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40122351)|
+|労働力のダンピング1|[YouTube](https://youtu.be/ZCNqRPN-1lc)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40142265)|
+|労働力のダンピング2|[YouTube](https://youtu.be/w7OhnKG9Ezg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40142320)|
+
+※労働問題は動画量が多いので分割しました  
+[※復習用資料はこちら](02_01.md)
+
+### 社会保障
+||||
+|:----:|:----:|:----:|
+|社会保障導入|[YouTube](https://youtu.be/yrvOFgi5_qE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40163526)|
+|欧米の社会保障の流れ1|[YouTube](https://youtu.be/3VsCZHkhYFg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40146696)|
+|欧米の社会保障の流れ2|[YouTube](https://youtu.be/7ZApi5ggazE)|[ニコニコ動画][(](https://www.nicovideo.jp/watch/sm40150693))|
+|欧米の社会保障の流れ3|[YouTube](https://youtu.be/1ehx52LvaNo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40158826)|
+|日本の社会保障の流れ|[YouTube](https://youtu.be/sQixTB4uTy0)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40159047)|
+|社会保険概説＋雇用保険|[YouTube](https://youtu.be/dba1-UhI_70)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40159181)|
+|医療保険|[YouTube](https://youtu.be/QSqoD1e9zIs)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40174190)|
+|年金保険1|[YouTube](https://youtu.be/tyxUj9U-0-4)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40174412)|
+|年金保険2|[YouTube](https://youtu.be/_efDsrts4Ik)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40178277)|
+|年金保険3|[YouTube](https://youtu.be/5_4_zCgs2Fg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40178332)|
+|近年の資産形成の動向について雑談1|[YouTube](https://youtu.be/WBPWufdqHeA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40178367)|
+|近年の資産形成の動向について雑談2|[YouTube](https://youtu.be/tN0hnblNgIU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40178386)|
+|労災保険|[YouTube](https://youtu.be/UGqJcG_J-rM)|[ニコニコ動画]()|
+|介護保険|[YouTube](https://youtu.be/HKK2zg9Hx8c)|[ニコニコ動画]()|
+|公的扶助|[YouTube](https://youtu.be/Y3XLbCiT-mY)|[ニコニコ動画]()|
+|社会福祉|[YouTube](https://youtu.be/nWtTllL-GkU)|[ニコニコ動画]()|
+
+[※復習用資料はこちら](02_02.md)  
+
+### 編集中
 
 ||||
 |:----:|:----:|:----:|
@@ -264,5 +298,4 @@
 ||[YouTube]()|[ニコニコ動画]()|
 ||[YouTube]()|[ニコニコ動画]()|
 
-※資本主義は動画量が多いので分割しました  
-[※復習用資料はこちら](01_15.md)
+[※復習用資料はこちら](02_02.md)
