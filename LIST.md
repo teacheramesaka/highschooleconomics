@@ -280,12 +280,137 @@
 |年金保険3|[YouTube](https://youtu.be/5_4_zCgs2Fg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40178332)|
 |近年の資産形成の動向について雑談1|[YouTube](https://youtu.be/WBPWufdqHeA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40178367)|
 |近年の資産形成の動向について雑談2|[YouTube](https://youtu.be/tN0hnblNgIU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40178386)|
-|労災保険|[YouTube](https://youtu.be/UGqJcG_J-rM)|[ニコニコ動画]()|
+|労災保険|[YouTube](https://youtu.be/UGqJcG_J-rM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40186140)|
 |介護保険|[YouTube](https://youtu.be/HKK2zg9Hx8c)|[ニコニコ動画]()|
 |公的扶助|[YouTube](https://youtu.be/Y3XLbCiT-mY)|[ニコニコ動画]()|
 |社会福祉|[YouTube](https://youtu.be/nWtTllL-GkU)|[ニコニコ動画]()|
 
 [※復習用資料はこちら](02_02.md)  
+
+### 今日的な福祉問題
+
+||||
+|:----:|:----:|:----:|
+|今日的な福祉問題1／概要|[YouTube](https://youtu.be/_ESJpSup89Q)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40253669)|
+|今日的な福祉問題2／少子化|[YouTube](https://youtu.be/YP4Gek8Acug)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40258288)|
+|今日的な福祉問題3／高齢化|[YouTube](https://youtu.be/88V4G-2jR1E)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40335749)|
+
+[※復習用資料はこちら](02_03.md)
+
+### 消費者問題
+
+||||
+|:----:|:----:|:----:|
+|消費者問題1／概要と消費者基本法|[YouTube](https://youtu.be/WZEruzFfPbA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40335775)|
+|消費者問題2／クーリングオフ|[YouTube](https://youtu.be/CFd5TNB7tbk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40336156)|
+|消費者問題3／その他様々な消費者保護|[YouTube](https://youtu.be/GlVghPlLMGM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40339322)|
+
+[※復習用資料はこちら](02_04.md)
+
+### 公害問題、環境問題
+
+||||
+|:----:|:----:|:----:|
+|公害問題、環境問題／歴史的経緯の概略|[YouTube](https://youtu.be/Y1sNkt_ca1s)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40340707)|
+|具体的な公害・環境問題対策1／内部化|[YouTube](https://youtu.be/Ze5yDm_BD8o)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40346332)|
+|具体的な公害・環境問題対策2／無過失責任|[YouTube](https://youtu.be/Q7oqynwgl14)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40363273)|
+|具体的な公害・環境問題対策3／循環型どうこう|[YouTube](https://youtu.be/DB2RDBqUiZA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40369051)|
+
+[※復習用資料はこちら](02_05.md)
+
+## 経済分野第三章　戦後国際経済史
+### 国際経済通史
+
+||||
+|:----:|:----:|:----:|
+|戦後の貿易体制1|[YouTube](https://youtu.be/p1iZOlBjO0A)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40379478)|
+|戦後の貿易体制2|[YouTube](https://youtu.be/URgZZ28T80E)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40379917)|
+|戦後の貿易体制3|[YouTube](https://youtu.be/-2xjCkC1eCQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40386877)|
+|1980年代までの通史1／概要|[YouTube](https://youtu.be/Z605J1xn8-E)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40387787)|
+|1980年代までの通史2／為替制限|[YouTube](https://youtu.be/2Np7ktN2V_M)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40416743)|
+|1980年代までの通史3／世界銀行|[YouTube](https://youtu.be/zf-M8ZlXFt0)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40416806)|
+|1980年代までの通史4／米国の経済覇権の動揺|[YouTube](https://youtu.be/_mk-SyHWOi8)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40423608)|
+|1980年代までの通史5／旧IMF体制の動揺と崩壊1|[YouTube](https://youtu.be/8WV2JbRqt6E)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40425442)|
+|1980年代までの通史6／旧IMF体制の動揺と崩壊2|[YouTube](https://youtu.be/Bmh3BvYQUHw)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40440777)|
+|1980年代までの通史7／1970年代の国際経済1|[YouTube](https://youtu.be/POXbkwRP7kg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40442386)|
+|1980年代までの通史8／1970年代の国際経済2|[YouTube](https://youtu.be/3iL-IcPPO7E)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40442429)|
+|1980年代までの通史9／1970年代の国際経済3|[YouTube](https://youtu.be/aQiKX_n3d-U)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40476369)|
+|1980年代までの通史10／1980年代の国際経済1|[YouTube](https://youtu.be/jumwuRvogHg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40480306)|
+|1980年代までの通史11／1980年代の国際経済2|[YouTube](https://youtu.be/SpUIK7RQBzQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40485058)|
+
+[※復習用資料はこちら](03_01.md)
+
+### 国際経済テーマ史
+#### 新IMF体制の諸特徴
+
+||||
+|:----:|:----:|:----:|
+|新IMF体制の諸特徴|[YouTube](https://youtu.be/Vg9x3kmoOAg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40487961)|
+
+[※復習用資料はこちら](03_02.md#●新IMF体制の諸特徴)
+
+#### ソ連の死とロシアの復活
+
+||||
+|:----:|:----:|:----:|
+|前説|[YouTube](https://youtu.be/CW6Bpu4I0dk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40498736)|
+|アジア通貨危機1|[YouTube](https://youtu.be/ty46QbQAHuE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40505361)|
+|アジア通貨危機2|[YouTube](https://youtu.be/Ok1i_Qsrd0Q)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40508889)|
+|アジア通貨危機3|[YouTube](https://youtu.be/D0hWicVmzFg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40510186)|
+|ロシア金融危機とその後|[YouTube](https://youtu.be/jkSaSXLhcRI)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40510353)|
+
+[※復習用資料はこちら](03_02.md#●ソ連の死とロシアの復活)
+
+### 2000年代の金融危機
+
+||||
+|:----:|:----:|:----:|
+|アルゼンチン通貨危機＋1990年代の米国経済|[YouTube](https://youtu.be/0n2QlSi-PCQ)|[ニコニコ動画]()|
+|リーマンショック1|[YouTube](https://youtu.be/A9ZjWKDDdjI)|[ニコニコ動画]()|
+|リーマンショック2|[YouTube](https://youtu.be/RL9tal5Qb7w)|[ニコニコ動画]()|
+|リーマンショック3|[YouTube](https://youtu.be/c4xbPypDkv4)|[ニコニコ動画]()|
+|リーマンショック4|[YouTube](https://youtu.be/ZeK6NdXUFrk)|[ニコニコ動画]()|
+
+[※復習用資料はこちら](03_02.md#●2000年代の金融危機)
+
+### 編集中
+
+||||
+|:----:|:----:|:----:|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+
+[※復習用資料はこちら](02_02.md)
+
+#### ソ連の死とロシアの復活
+
+||||
+|:----:|:----:|:----:|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+
+[※復習用資料はこちら](02_02.md)
+
+### 編集中
+
+||||
+|:----:|:----:|:----:|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+
+[※復習用資料はこちら](02_02.md)
 
 ### 編集中
 
