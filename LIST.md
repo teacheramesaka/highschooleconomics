@@ -426,14 +426,14 @@
 
 [※復習用資料はこちら](03_02.md#●南北問題)
 
-## 経済分野第三章　戦後国際経済史
+## 経済分野第四章　日本経済史
 ### 明治維新から終戦まで
 
 ||||
 |:----:|:----:|:----:|
-|明治維新から終戦までの経済史1／概要|[YouTube](https://youtu.be/itDXmNhUnqE)|[ニコニコ動画]()|
-|明治維新から終戦までの経済史2／明治の日本経済|[YouTube](https://youtu.be/ypDet0g3-30)|[ニコニコ動画]()|
-|明治維新から終戦までの経済史3／第一次世界大戦以降|[YouTube](https://youtu.be/pN2z04FbzxA)|[ニコニコ動画]()|
+|明治維新から終戦までの経済史1／概要|[YouTube](https://youtu.be/itDXmNhUnqE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40689332)|
+|明治維新から終戦までの経済史2／明治の日本経済|[YouTube](https://youtu.be/ypDet0g3-30)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40689453)|
+|明治維新から終戦までの経済史3／第一次世界大戦以降|[YouTube](https://youtu.be/pN2z04FbzxA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40709755)|
 
 [※復習用資料はこちら](04_01.md)
 
@@ -452,18 +452,20 @@
 
 [※復習用資料はこちら](04_02.md)
 
-### 編集中
+### 高度経済成長期
 
 ||||
 |:----:|:----:|:----:|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
+|第一次高度経済成長期1／神武景気開幕|[YouTube](https://youtu.be/fLyp4SAFIOY)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40752881)|
+|第一次高度経済成長期2／この時期の特徴|[YouTube](https://youtu.be/FHRgVfpbvxU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40753104)|
+|第一次高度経済成長期3／貿易収支と岩戸景気|[YouTube](https://youtu.be/QFYesu8qDtA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40753184)|
+|第二次高度経済成長期1／オリンピック景気|[YouTube](https://youtu.be/hkIbQ2aAnf4)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40799509)|
+|第二次高度経済成長期2／いざなぎ景気|[YouTube](https://youtu.be/ZUYkRIxNtTQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40803420)|
+|高度経済成長期の特徴1／社会構造の変化|[YouTube](https://youtu.be/PKyX4cDSdkw)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40816416)|
+|高度経済成長期の特徴2／人口移動|[YouTube](https://youtu.be/o-fQuHSS-VI)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40820736)|
+|高度経済成長期の特徴3／都市の成長と金融|[YouTube](https://youtu.be/jfPSm1WHH9Q)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40820789)|
 
-[※復習用資料はこちら](02_02.md)
+[※復習用資料はこちら](04_03.md)
 
 ### 編集中
 
