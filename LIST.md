@@ -467,6 +467,25 @@
 
 [※復習用資料はこちら](04_03.md)
 
+### 安定成長期
+
+||||
+|:----:|:----:|:----:|
+|安定成長への転換1|[YouTube](https://youtu.be/osKFc2vKCks)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40820892)|
+|安定成長への転換2|[YouTube](https://youtu.be/8eXKifIn-A0)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40839999)|
+|ポストオイルショック1|[YouTube](https://youtu.be/dEQcUFMK-Yk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40856644)|
+|ポストオイルショック2|[YouTube](https://youtu.be/uV9IeW16uME)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40856644)|
+|日米貿易摩擦1／概要|[YouTube](https://youtu.be/51UZaRtW2Jg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40856653)|
+|日米貿易摩擦2／勝敗を分けたもの|[YouTube](https://youtu.be/CP0II7dQkx4)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40856655)|
+|日米貿易摩擦3／日米構造協議|[YouTube](https://youtu.be/gHSLGEAgOWM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40856656)|
+|日米貿易摩擦4／その後|[YouTube](https://youtu.be/xw_V2oqZglo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40856994)|
+|バブル景気1／バブル開幕|[YouTube](https://youtu.be/OFBsukR_oCo)|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+||[YouTube]()|[ニコニコ動画]()|
+
+[※復習用資料はこちら](04_04.md)
+
 ### 編集中
 
 ||||
