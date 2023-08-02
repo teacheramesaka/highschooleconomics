@@ -278,7 +278,7 @@
 |:----:|:----:|:----:|
 |社会保障導入|[YouTube](https://youtu.be/yrvOFgi5_qE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40163526)|
 |欧米の社会保障の流れ1|[YouTube](https://youtu.be/3VsCZHkhYFg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40146696)|
-|欧米の社会保障の流れ2|[YouTube](https://youtu.be/7ZApi5ggazE)|[ニコニコ動画][(](https://www.nicovideo.jp/watch/sm40150693))|
+|欧米の社会保障の流れ2|[YouTube](https://youtu.be/7ZApi5ggazE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40150693)|
 |欧米の社会保障の流れ3|[YouTube](https://youtu.be/1ehx52LvaNo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40158826)|
 |日本の社会保障の流れ|[YouTube](https://youtu.be/sQixTB4uTy0)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40159047)|
 |社会保険概説＋雇用保険|[YouTube](https://youtu.be/dba1-UhI_70)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40159181)|
