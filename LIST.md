@@ -195,6 +195,13 @@
 |市中銀行と信用創造|[YouTube](https://youtu.be/1dUkO2ACirI)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39977370)|
 
 [※復習用資料はこちら](01_13.md)
+
+### 貧富の格差を表す指標  
+
+動画作成中
+
+[※復習用資料はこちら](01_14.md)
+
 ### 税
 
 ||||
@@ -203,23 +210,24 @@
 |税2／雑談-税金と経費|[YouTube](https://youtu.be/e8QrFgNGFjU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981132)|
 |税3／消費税|[YouTube](https://youtu.be/5IrXS3mQVys)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981185)|
 
-[※復習用資料はこちら](01_14.md)
+[※復習用資料はこちら](01_15.md)
+
 
 ### 国際経済
 
 ||||
 |:----:|:----:|:----:|
-|高校公民経済分野1-15-1／為替の変動1／概要|[YouTube](https://youtu.be/vL_RcPhpbCM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981264)|
-|高校公民経済分野1-15-2／為替の変動2／要因1|[YouTube](https://youtu.be/KWwpHfz6LpE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981308)|
-|高校公民経済分野1-15-3／為替の変動3／要因2|[YouTube](https://youtu.be/z2g5K2k8qQE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40006296)|
-|高校公民経済分野1-15-4／為替の変動4／結果1|[YouTube](https://youtu.be/H5zwiygqe84)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40006484)|
-|高校公民経済分野1-15-5／為替の変動5／結果2|[YouTube](https://youtu.be/5rf-jpE1pAg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40006556)|
-|高校公民経済分野1-15-6／貿易取引の仕組|[YouTube](https://youtu.be/hcrdoD3MOKQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010190)|
-|高校公民経済分野1-15-7／国際分業|[YouTube](https://youtu.be/GHUWukwkrOk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010466)|
-|高校公民経済分野1-15-8／国際収支1|[YouTube](https://youtu.be/Y_bNZXn3lQg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010554)|
-|高校公民経済分野1-15-9／国際収支2|[YouTube](https://youtu.be/arS3KolWWPQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010680)|
+|為替の変動1／概要|[YouTube](https://youtu.be/vL_RcPhpbCM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981264)|
+|為替の変動2／要因1|[YouTube](https://youtu.be/KWwpHfz6LpE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm39981308)|
+|為替の変動3／要因2|[YouTube](https://youtu.be/z2g5K2k8qQE)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40006296)|
+|為替の変動4／結果1|[YouTube](https://youtu.be/H5zwiygqe84)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40006484)|
+|為替の変動5／結果2|[YouTube](https://youtu.be/5rf-jpE1pAg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40006556)|
+|貿易取引の仕組|[YouTube](https://youtu.be/hcrdoD3MOKQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010190)|
+|国際分業|[YouTube](https://youtu.be/GHUWukwkrOk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010466)|
+|国際収支1|[YouTube](https://youtu.be/Y_bNZXn3lQg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010554)|
+|国際収支2|[YouTube](https://youtu.be/arS3KolWWPQ)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40010680)|
 
-[※復習用資料はこちら](01_15.md)
+[※復習用資料はこちら](01_16.md)
 
 
 ## 経済分野第二章　社会福祉
@@ -479,22 +487,51 @@
 |日米貿易摩擦2／勝敗を分けたもの|[YouTube](https://youtu.be/CP0II7dQkx4)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40856655)|
 |日米貿易摩擦3／日米構造協議|[YouTube](https://youtu.be/gHSLGEAgOWM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40856656)|
 |日米貿易摩擦4／その後|[YouTube](https://youtu.be/xw_V2oqZglo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40856994)|
-|バブル景気1／バブル開幕|[YouTube](https://youtu.be/OFBsukR_oCo)|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
+|バブル景気1／バブル開幕|[YouTube](https://youtu.be/OFBsukR_oCo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40858968)|
+|バブル景気2／資本利得と「お買い得」|[YouTube](https://www.youtube.com/watch?v=U-G29SmpVVw)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40858970)|
+|バブル景気3／土地すごろく|[YouTube](https://www.youtube.com/watch?v=OcUw0VrU6Ak)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40858974)|
 
 [※復習用資料はこちら](04_04.md)
 
-### 編集中
+### 失われた三十年
 
 ||||
 |:----:|:----:|:----:|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
-||[YouTube]()|[ニコニコ動画]()|
+|バブル崩壊1／概要|[YouTube](https://www.youtube.com/watch?v=3XTRU4JS_QI)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40858975)|
+|バブル崩壊2／現代の端緒|[YouTube](https://www.youtube.com/watch?v=FvafAyt_BFI)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40897151)|
+|バブル崩壊3／三つの要因|[YouTube](https://www.youtube.com/watch?v=Zy8W68Z-wpg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40897242)|
+|橋本内閣と新自由主義の台頭|[YouTube](https://www.youtube.com/watch?v=_80_fpP8_CU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40906726)|
+|金融ビッグバン1／概要|[YouTube](https://www.youtube.com/watch?v=OIRg1NzMkUs)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40906727)|
+|金融ビッグバン2／銀行関係の話|[YouTube](https://www.youtube.com/watch?v=Ck_MYY3Aj1k)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40906728)|
+|金融ビッグバン3／金融業界の再編|[YouTube](https://www.youtube.com/watch?v=M2nPWmWXLCo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40906729)|
+|小泉内閣という決定打|[YouTube](https://www.youtube.com/watch?v=k6yv_ZMTAb8)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40906730)|
+|小泉内閣の諸改革1|[YouTube](https://www.youtube.com/watch?v=VbBImUJO4Jo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40909623)|
+|小泉内閣の諸改革2|[YouTube](https://www.youtube.com/watch?v=4iEA7CUkk9g)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40909625)|
+|実感なき景気回復1|[YouTube](https://www.youtube.com/watch?v=kzWt36VKCR0)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40952060)|
+|実感なき景気回復2|[YouTube](https://www.youtube.com/watch?v=RZrrRk_YowA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40952061)|
+|リーマンショック後の大不況1|[YouTube](https://www.youtube.com/watch?v=NaWLuwrJCLc)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40952062)|
+|リーマンショック後の大不況2|[YouTube](https://www.youtube.com/watch?v=rApHBBq6fVw)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40952065)|
+|アベノミクス|[YouTube](https://www.youtube.com/watch?v=o-_FP2bPjSs)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40952068)|
 
-[※復習用資料はこちら](02_02.md)
+[※復習用資料はこちら](04_05.md)
+
+
+### 日本経済テーマ史
+
+||||
+|:----:|:----:|:----:|
+|産業構造の転換1／概要|[YouTube](https://www.youtube.com/watch?v=76gYs65iqFw)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40999177)|
+|産業構造の転換2／日本の産業構造の転換|[YouTube](https://www.youtube.com/watch?v=sz_4N3qbcB8)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40999672)|
+|産業構造の転換3／情報化社会|[YouTube](https://www.youtube.com/watch?v=YCcNW_QEr5c)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40999180)|
+|中小企業1／概要と定義|[YouTube](https://www.youtube.com/watch?v=U7m1qzdauZo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40999181)|
+|中小企業2／二重構造|[YouTube](https://www.youtube.com/watch?v=IoSNUH0iPpo)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40999183)|
+|中小企業3／規制緩和その他|[YouTube](https://www.youtube.com/watch?v=fuDON9reLiA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40999673)|
+|農家の分類＋戦後日本農業史概略1|[YouTube](https://www.youtube.com/watch?v=mkj4UFROrVA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm41039118)|
+|戦後日本農業史概略2／食糧管理制度と緑の革命|[YouTube](https://www.youtube.com/watch?v=KH7MV_ATlqg)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm41039120)|
+|戦後日本農業史概略3／食糧管理制度の破綻|[YouTube](https://www.youtube.com/watch?v=Cy-0wgox2jA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm41039122)|
+|戦後日本農業史概略4／食糧管理制度の終焉|[YouTube](https://www.youtube.com/watch?v=75uw4YxCzfs)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm41039123)|
+|食糧自給率|[YouTube](https://www.youtube.com/watch?v=Swq2kXqMd_E)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm41039124)|
+|都市化による問題|[YouTube](https://www.youtube.com/watch?v=3aLPHuJ28IY)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm41298737)|
+|地方創生|[YouTube](https://www.youtube.com/watch?v=n1fuOG0rvQk)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm42559593)|
+
+[※復習用資料はこちら](04_06.md)
