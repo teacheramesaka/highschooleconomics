@@ -1,12 +1,23 @@
 # Summary
 
-* [雨坂先生の復習用資料　表紙](https://teacheramesaka.github.io/studyfiles/)
-* [高校公民経済分野　表紙](README.md)
-* [動画一覧](LIST.md)
+* [公共、政治経済：経済分野　トップ](README.md)
+
+-----
+
+* [ウェブサイト全体のトップページへ](https://teacheramesaka.github.io/studyfiles/)
+* [公共・政治経済・倫理の問題集へ](https://teacheramesaka.github.io/hsworkbookcivics/)
+
+-----
+
+* [経済分野の授業動画一覧](LIST.md)
 * [YouTube再生リスト](https://www.youtube.com/playlist?list=PLOdKiaJAYzETqEgfO---EFK30N1aXbyBP)
 
 -----
+
 * [経済分野第一章　経済の仕組み](01_00.md)
+    * [産業革命と長い十九世紀](01_01pre.md)
+        * [前置きと資料](01_01.md#●前置きと資料)
+        * [ANNO1800](01_01.md#●ANNO1800)
     * [資本主義](01_01.md)
         * [資本主義とは](01_01.md#●資本主義とは)
         * [資本主義の修正](01_01.md#●資本主義の修正)

@@ -1,7 +1,7 @@
 {
   "name": "highschooleconomics",
   "version": "1.0.0",
-  "description": "",
+  "description": "当サイトでは、文系教員VTuber[雨坂先生](https://twitter.com/teacheramesaka)による、公共、政治経済の経済分野の授業用資料を掲載しています。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,17 +11,19 @@
     "url": "git+https://github.com/teacheramesaka/highschooleconomics.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "雨坂",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/teacheramesaka/highschooleconomics/issues"
   },
   "homepage": "https://github.com/teacheramesaka/highschooleconomics#readme",
   "devDependencies": {
-    "honkit": "^3.6.20"
+    "honkit": "^3.7.5"
   },
   "dependencies": {
     "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-folding-content": "^1.0.0",
+    "gitbook-plugin-insert-logo": "^0.1.5",
     "gitbook-plugin-page-treeview": "^3.0.6"
   }
 }
