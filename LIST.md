@@ -289,9 +289,9 @@
 |近年の資産形成の動向について雑談1|[YouTube](https://youtu.be/WBPWufdqHeA)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40178367)|
 |近年の資産形成の動向について雑談2|[YouTube](https://youtu.be/tN0hnblNgIU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40178386)|
 |労災保険|[YouTube](https://youtu.be/UGqJcG_J-rM)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40186140)|
-|介護保険|[YouTube](https://youtu.be/HKK2zg9Hx8c)|[ニコニコ動画]()|
-|公的扶助|[YouTube](https://youtu.be/Y3XLbCiT-mY)|[ニコニコ動画]()|
-|社会福祉|[YouTube](https://youtu.be/nWtTllL-GkU)|[ニコニコ動画]()|
+|介護保険|[YouTube](https://youtu.be/HKK2zg9Hx8c)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40186689)|
+|公的扶助|[YouTube](https://youtu.be/Y3XLbCiT-mY)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40244709)|
+|社会福祉|[YouTube](https://youtu.be/nWtTllL-GkU)|[ニコニコ動画](https://www.nicovideo.jp/watch/sm40244882)|
 
 [※復習用資料はこちら](02_02.md)  
 
